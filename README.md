@@ -23,8 +23,6 @@ Critères de performance
 Livrables
 - L'url de votre site en ligne.
 
-https://simplonline.co/briefs/6f2824b1-efa3-4541-9167-20ed17858375
-
 Compétences: 4
 
 Date: 31/01/2022 au 01/02/2022   Durée: 2j
